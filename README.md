@@ -31,7 +31,7 @@ Web Application Gradient project
         <div class="circle purple"></div>
         <div class="circle green"></div>
         <div class="profile-img">
-          <img src="images/7c6e30f862c0cd4495e976ed139aaeb6.jpg" alt="Profile" />
+          <img src="https://www.pinterest.com/pin/1004232416920078902/" alt="Profile" />
         </div>
       </div>
     </div>
